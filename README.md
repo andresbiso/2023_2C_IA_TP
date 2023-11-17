@@ -40,6 +40,7 @@
 - [@andresbiso](https://github.com/andresbiso)
 - [@fjilundain](https://github.com/fjilundain) -> principal autor del modelo generado en google colab
 - [@mhcoria2802](https://github.com/mhcoria2802)
+- [@gianfrancostigliano](https://github.com/gianfrancostigliano)
 
 # :tada: Reconocimientos <a name = "acknowledgement"></a>
 
