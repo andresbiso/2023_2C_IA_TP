@@ -21,6 +21,11 @@
 
 # :wrench: Levantar Proyecto <a name = "run_project"></a>
 
+## Forma Automática
+
+- [Repositorio en Google Colab](https://colab.research.google.com/github/andresbiso/2023_2C_IA_TP/blob/main/ClasificadorDeGranos.ipynb)
+
+## Forma Manual
 1. Ir a https://colab.research.google.com/
 2. Seleccionar este repositorio de código
 
