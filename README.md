@@ -3,6 +3,8 @@
     <br>
     2C - 2023
     <br>
+    Grupo 1
+    <br>
 </p>
 
 # :pencil: Table of Contents
@@ -31,6 +33,8 @@
 # :speech_balloon: Autores <a name = "author"></a>
 
 - [@andresbiso](https://github.com/andresbiso)
+- [@fjilundain](https://github.com/fjilundain) -> principal autor del modelo generado en google colab
+- [@mhcoria2802](https://github.com/mhcoria2802)
 
 # :tada: Reconocimientos <a name = "acknowledgement"></a>
 
