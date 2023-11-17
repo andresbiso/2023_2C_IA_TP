@@ -9,6 +9,7 @@
 
 - [Acerca De](#about)
 - [Levantar Proyecto](#run_project)
+- [Otros Comentarios](#comments)
 - [Autores](#author)
 - [Reconocimientos](#acknowledgement)
 
@@ -20,6 +21,12 @@
 
 1. Ir a https://colab.research.google.com/
 2. Seleccionar este repositorio de código
+
+- Más Información: [Levantar Repositorio Github en Google Colab](https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+# :question: Otros Comentarios <a name = "comments"></a>
+
+- Las imágenes y demás recursos utilizados durante el desarrollo del modelo de aprendizaje son utilizados únicamente con fines académicos. 
 
 # :speech_balloon: Autores <a name = "author"></a>
 
